@@ -1,8 +1,8 @@
-#Traveller
-Traveller Website
+
+# Traveller 
 Welcome to Traveller - your ultimate destination for exploring the most beautiful places in the world and discovering exciting travel opportunities. Whether you're a seasoned globetrotter or a curious adventurer, Traveller has something special for everyone. Join us on an unforgettable journey to some of the most incredible destinations on the planet.
 
-Travel With Us
+# Travel With Us
 At Traveller, we've curated a list of countries and places that are renowned for their breathtaking beauty and allure to tourists and travelers. From the charming streets of Paris to the iconic landmarks of New York, from the exotic landscapes of Asia to the enchanting islands of Mauritius, we've got it all covered.
 
 Europe - A Continent of Wonders
@@ -29,7 +29,7 @@ Stay updated with the latest travel news, including updates on airport procedure
 About Us
 We are a passionate group of students from the faculty of Computers and Artificial Intelligence. Our aim is to inspire wanderlust and foster a love for exploring the world's beauty. Learn more about our team and our mission on the "About" page.
 
-Navigation
+# Navigation
 Home
 About Us
 Europe
