@@ -30,16 +30,16 @@ About Us
 We are a passionate group of students from the faculty of Computers and Artificial Intelligence. Our aim is to inspire wanderlust and foster a love for exploring the world's beauty. Learn more about our team and our mission on the "About" page.
 
 # Navigation
-Home
-About Us
-Europe
-Middle East
-Africa
-Asia
-Islands
-Americas
-Important Instructions
-Latest News
+-Home
+-About Us
+-Europe
+-Middle East
+-Africa
+-Asia
+-Islands
+-Americas
+-Important Instructions
+-Latest News
 Join us on this extraordinary journey of discovery and adventure. Happy exploring!
 
 Traveller
